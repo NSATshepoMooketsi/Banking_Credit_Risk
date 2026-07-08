@@ -36,7 +36,7 @@ After selecting the loan-related fields:
 - Loan Grade
 - Loan Term (Months)
 
-duplicate combinations were removed, reducing the dimension to **166 unique loan profiles**.
+Duplicate combinations were removed, reducing the dimension to **166 unique loan profiles**.
 
 A surrogate **Loan_ID** was then generated to uniquely identify each loan attribute combination.
 
