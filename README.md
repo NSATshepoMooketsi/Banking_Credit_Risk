@@ -58,9 +58,13 @@ This modelling approach provides a clean separation between descriptive dimensio
 
 ---
 # 2. Key Insights 📈
-##  2.1 Performing Loans and Borrower demographics
-- Customer base is dominated by Mid-Career to Pre-Retirement customers, 23% of which have dependents.
-- Customer distribution by gender is balanced.
-- Seniors have the highest churn rate due to competition, the general trend applies for all customer groups.
+##  2.1 Customer Insights: Performing Loans
+- Affluent, Upper Middle Class and Middle class aacount for the highest number of customers.
+- Lower Middle Class has the highest debt to Income and Loan to Income ratio.
+- Default rate decreases as we go up in class.
+- Prior Delinquency is highest amongst the working class and lower working class groups.
+- Positive relationship between default rate and debt to income (and Loan to Income) across groups.
+- DTI and LTI do not have significant impact on customer's likelihood of defaulting. 
+- Previous loan default suggest higher currnt default rates. 
 ###  2.1.2 Dashboard Preview 📊
 ![Dashboard](Images/Customer_Demographics_Loyalty.png)
