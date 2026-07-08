@@ -2,7 +2,7 @@
 Developed an interactive Power BI Credit Risk Dashboard using a star schema, Power Query, and DAX to analyze loan performance, customer demographics, default and delinquency trends, income segments, and lending risk. Demonstrates data modelling, KPI development, and business intelligence reporting for data-driven decision-making.
 # Data Modelling
 
-The original dataset consisted of a single flat file containing **29 attributes**, where loan, borrower and location information were stored in a single table. To improve scalability, reduce data redundancy and follow dimensional modelling best practices, the data was transformed into a **star schema model**.
+The original dataset consisted of a single flat file containing **29 attributes**, where loan, borrower and location information were stored in a single table. To improve scalability, reduce data redundancy the data was transformed into a **star schema model**.
 
 ## Star Schema Design
 
@@ -42,8 +42,6 @@ This allows the fact table to store only the surrogate key rather than repeatedl
 ---
 
 ## Why a Star Schema?
-
-Although the Power BI model size increased slightly after introducing additional dimensions, relationships and measures, this is expected. Power BI stores report metadata, visuals, relationships and DAX calculations in addition to the compressed data model.
 
 The purpose of the star schema is **not simply to reduce file size**, but to create a model that is easier to maintain, faster to query and more scalable.
 
