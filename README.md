@@ -59,12 +59,12 @@ This modelling approach provides a clean separation between descriptive dimensio
 ---
 # 2. Key Insights 📈
 ##  2.1 Customer Insights: Performing Loans
-- Affluent, Upper Middle Class and Middle class aacount for the highest number of customers.
-- Lower Middle Class has the highest debt to Income and Loan to Income ratio.
-- Default rate decreases as we go up in class.
-- Prior Delinquency is highest amongst the working class and lower working class groups.
-- Positive relationship between default rate and debt to income (and Loan to Income) across groups.
-- DTI and LTI do not have significant impact on customer's likelihood of defaulting. 
-- Previous loan default suggest higher currnt default rates. 
+- Middle Class, Upper Middle Class and Affluent borrowers account for the largest share of the performing loan portfolio.
+- Lower Middle Class borrowers exhibit the highest average Debt-to-Income (DTI) and Loan-to-Income (LTI) ratios among the major income segments.
+- Borrower default rates decline as income class increases which indicates lower credit risk among higher-income segments.
+- Prior delinquency rates are highest among the Working Class and Lower Working Class segments.
+- Higher default rates are generally associated with higher Debt-to-Income (DTI) and Loan-to-Income (LTI) ratios across income classes.
+- Average credit utilization remains relatively consistent across income classes and DTI/LTI segments, suggesting limited differentiation between customer groups.
+- Borrowers with a previous default history exhibit substantially higher current default rates than borrowers with no previous defaults.
 ###  2.1.2 Dashboard Preview 📊
 ![Dashboard](Images/Customer_Demographics_Loyalty.png)
