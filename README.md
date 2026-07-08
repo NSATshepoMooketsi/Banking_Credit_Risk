@@ -79,7 +79,7 @@ This modelling approach provides a clean separation between descriptive dimensio
 ###  2.2.1 Dashboard Preview 📊
 ![Dashboard](Images/Customer_Demographics_Loyalty.png)
 
-##  2.3 Loan Insights: Performing Loans
+##  2.3 Loan Insights: Loan Grading
 - Loan grade is the strongest predictor of default performance within the lending portfolio.
 - Loan grades D–G account for the highest default rates with Grade G representing the riskiest segment of the portfolio.
 - Higher-income borrowers consistently exhibit lower default rates across all loan grades.
@@ -87,3 +87,15 @@ This modelling approach provides a clean separation between descriptive dimensio
 - Credit history length alone does not eliminate default risk particularly for lower-quality loan grades.
 ###  2.3.1 Dashboard Preview 📊
 ![Dashboard](Images/Customer_Demographics_Loyalty.png)
+
+
+##  2.4 Loan Insights: Location
+- Geographic location has a weaker relationship with credit risk than borrower income, loan grade and previous default history.
+- Loan performance is consistent across all major cities and states, with performing loans representing approximately 76–79% of the portfolio.
+- Default rates remain virtually unchanged across Canada, the United Kingdom and the United States.
+- Borrower affordability metrics (DTI and LTI) show minimal variation across countries.
+- The portfolio demonstrates a balanced geographic distribution with no dominant regional concentration.
+
+###  2.4.1 Dashboard Preview 📊
+![Dashboard](Images/Customer_Demographics_Loyalty.png)
+
