@@ -61,6 +61,7 @@ This modelling approach provides a clean separation between descriptive dimensio
 ##  2.1 Customer Insights: Performing Loans
 - Middle Class, Upper Middle Class and Affluent borrowers account for the largest share of the performing loan portfolio.
 - Lower Middle Class borrowers exhibit the highest average Debt-to-Income (DTI) and Loan-to-Income (LTI) ratios among the major income segments.
+- Despite exhibiting the highest DTI and LTI ratios, the Lower Middle Class also represents one of the largest borrower segments, making it a key group for ongoing credit risk monitoring.
 - Borrower default rates decline as income class increases which indicates lower credit risk among higher-income segments.
 - Prior delinquency rates are highest among the Working Class and Lower Working Class segments.
 - Higher default rates are generally associated with higher Debt-to-Income (DTI) and Loan-to-Income (LTI) ratios across income classes.
