@@ -109,7 +109,15 @@ This modelling approach provides a clean separation between descriptive dimensio
 ![Dashboard](Images/Report_Detail.png)
 
 
-## Author
+# 3. Executive Recommendations
+- **Strengthen affordability-based lending policies** by placing greater emphasis on Debt-to-Income (DTI) and Loan-to-Income (LTI) ratios during credit assessments.
+- **Expand lending within lower-risk customer segments**, particularly higher-income borrowers and applicants with stronger loan grades.
+- **Increase monitoring of borrowers with previous defaults or delinquencies**, as historical repayment behaviour remains one of the strongest indicators of future credit risk.
+- **Adopt loan grade as the primary risk segmentation metric**, supported by borrower income and affordability measures to improve underwriting and portfolio management.
+- **Maintain geographic diversification**, while directing risk management efforts toward borrower and loan characteristics that demonstrate a stronger relationship with default behaviour.
+---
+
+ # Author
 
 **Tshepo Mooketsi**
 
