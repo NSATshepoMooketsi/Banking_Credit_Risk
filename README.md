@@ -69,3 +69,13 @@ This modelling approach provides a clean separation between descriptive dimensio
 - Borrowers with a previous default history exhibit substantially higher current default rates than borrowers with no previous defaults.
 ###  2.1.2 Dashboard Preview 📊
 ![Dashboard](Images/Customer_Demographics_Loyalty.png)
+
+##  2. Customer Insights: Performing Loans
+- Education, Medical and Venture loans account for the largest share of the bank's loan portfolio.
+- Education loans represent the highest total lending value, making them the bank's largest credit exposure.
+- 36-month loans account for 40% of the portfolio, making them the most common repayment term.
+- Borrowers with a previous default history exhibit twice the current default rate (38% vs 19%) compared with borrowers who have no previous defaults.
+- Default loan value represents 34% of the total loan portfolio value, highlighting the scale of the bank's credit risk exposure.
+###  2.1.2 Dashboard Preview 📊
+![Dashboard](Images/Customer_Demographics_Loyalty.png)
+
