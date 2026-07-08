@@ -68,7 +68,11 @@ This modelling approach provides a clean separation between descriptive dimensio
 - Average credit utilization remains relatively consistent across income classes and DTI/LTI segments, suggesting limited differentiation between customer groups.
 - Borrowers with a previous default history exhibit substantially higher current default rates than borrowers with no previous defaults.
 ###  2.1.1 Dashboard Preview 📊
-![Dashboard](Images/Customer_Demographics_Loyalty.png)
+![Dashboard](Images/Customer_Insights_Loan_Performance.png)
+
+---
+![Dashboard](Images/Customer_Insights_Loan_Performance_2.png)
+---
 
 ##  2.2 Loan Insights: Performing Loans
 - Education, Medical and Venture loans account for the largest share of the bank's loan portfolio.
