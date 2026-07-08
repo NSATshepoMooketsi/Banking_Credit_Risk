@@ -67,15 +67,23 @@ This modelling approach provides a clean separation between descriptive dimensio
 - Higher default rates are generally associated with higher Debt-to-Income (DTI) and Loan-to-Income (LTI) ratios across income classes.
 - Average credit utilization remains relatively consistent across income classes and DTI/LTI segments, suggesting limited differentiation between customer groups.
 - Borrowers with a previous default history exhibit substantially higher current default rates than borrowers with no previous defaults.
-###  2.1.2 Dashboard Preview 📊
+###  2.1.1 Dashboard Preview 📊
 ![Dashboard](Images/Customer_Demographics_Loyalty.png)
 
-##  2. Customer Insights: Performing Loans
+##  2.2 Loan Insights: Performing Loans
 - Education, Medical and Venture loans account for the largest share of the bank's loan portfolio.
 - Education loans represent the highest total lending value, making them the bank's largest credit exposure.
 - 36-month loans account for 40% of the portfolio, making them the most common repayment term.
 - Borrowers with a previous default history exhibit twice the current default rate (38% vs 19%) compared with borrowers who have no previous defaults.
 - Default loan value represents 34% of the total loan portfolio value, highlighting the scale of the bank's credit risk exposure.
-###  2.1.2 Dashboard Preview 📊
+###  2.2.1 Dashboard Preview 📊
 ![Dashboard](Images/Customer_Demographics_Loyalty.png)
 
+##  2.3 Loan Insights: Performing Loans
+- Loan grade is the strongest predictor of default performance within the lending portfolio.
+- Loan grades D–G account for the highest default rates with Grade G representing the riskiest segment of the portfolio.
+- Higher-income borrowers consistently exhibit lower default rates across all loan grades.
+- Lower Income, Lower Working Class and Working Class borrowers represent the highest-risk customer segments irrespective of credit history classification.
+- Credit history length alone does not eliminate default risk particularly for lower-quality loan grades.
+###  2.3.1 Dashboard Preview 📊
+![Dashboard](Images/Customer_Demographics_Loyalty.png)
