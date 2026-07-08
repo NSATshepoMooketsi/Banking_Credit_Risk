@@ -117,8 +117,12 @@ This modelling approach provides a clean separation between descriptive dimensio
 - **Maintain geographic diversification**, while directing risk management efforts toward borrower and loan characteristics that demonstrate a stronger relationship with default behaviour.
 ---
 
+# 4. Live Dashboard 📊 
 
-https://app.fabric.microsoft.com/view?r=eyJrIjoiZDA5OGMxZDgtNTAxMy00YTc3LTk3YzgtNWMzNDZjYzMwMzk3IiwidCI6IjJhYTYxN2E4LTI3NDItNDEwMi04NjgzLTFmYTMzZGE4Nzc3YiJ9&pageName=0dd6b32cab21888650d6
+*Experience the interactive version of this dashboard in Power BI.*
+
+👉 **[Launch Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiZDA5OGMxZDgtNTAxMy00YTc3LTk3YzgtNWMzNDZjYzMwMzk3IiwidCI6IjJhYTYxN2E4LTI3NDItNDEwMi04NjgzLTFmYTMzZGE4Nzc3YiJ9&pageName=0dd6b32cab21888650d6)**
+
  # Author
 
 **Tshepo Mooketsi**
