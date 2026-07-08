@@ -57,3 +57,10 @@ Dim Loan ─────── Fact Credit Risk ─────── Dim Locati
 
 This modelling approach provides a clean separation between descriptive dimensions and measurable business facts, resulting in a model that is easier to understand, extend and analyse.
 ---
+## 2. Key Insights 📈
+###  2.1 Performing Loans and Borrower demographics
+- Customer base is dominated by Mid-Career to Pre-Retirement customers, 23% of which have dependents.
+- Customer distribution by gender is balanced.
+- Seniors have the highest churn rate due to competition, the general trend applies for all customer groups.
+###  2.1.2 Dashboard Preview 📊
+![Dashboard](Images/Customer_Demographics_Loyalty.png)
