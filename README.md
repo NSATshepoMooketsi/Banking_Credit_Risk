@@ -81,7 +81,7 @@ This modelling approach provides a clean separation between descriptive dimensio
 - Borrowers with a previous default history exhibit twice the current default rate (38% vs 19%) compared with borrowers who have no previous defaults.
 - Default loan value represents 34% of the total loan portfolio value, highlighting the scale of the bank's credit risk exposure.
 ###  2.2.1 Dashboard Preview 📊
-![Dashboard](Images/Customer_Demographics_Loyalty.png)
+![Dashboard](Images/Loan_Insights.png)
 
 ##  2.3 Loan Insights: Loan Grading
 - Loan grade is the strongest predictor of default performance within the lending portfolio.
@@ -90,7 +90,7 @@ This modelling approach provides a clean separation between descriptive dimensio
 - Lower Income, Lower Working Class and Working Class borrowers represent the highest-risk customer segments irrespective of credit history classification.
 - Credit history length alone does not eliminate default risk particularly for lower-quality loan grades.
 ###  2.3.1 Dashboard Preview 📊
-![Dashboard](Images/Customer_Demographics_Loyalty.png)
+![Dashboard](Images/Loan_Grading.png)
 
 
 ##  2.4 Loan Insights: Location
@@ -101,5 +101,10 @@ This modelling approach provides a clean separation between descriptive dimensio
 - The portfolio demonstrates a balanced geographic distribution with no dominant regional concentration.
 
 ###  2.4.1 Dashboard Preview 📊
-![Dashboard](Images/Customer_Demographics_Loyalty.png)
+![Dashboard](Images/Location.png)
+
+##  2.5 Report Detail
+- The report below gives a single page summary for all the matrix visuals. 
+###  2.5.1 Dashboard Preview 📊
+![Dashboard](Images/Report_Detail.png)
 
