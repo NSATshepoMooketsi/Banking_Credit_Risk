@@ -3,6 +3,16 @@
 Developed an interactive Power BI Credit Risk Dashboard using a star schema, Power Query, and DAX to analyze loan performance, customer demographics, default and delinquency trends, income segments, and lending risk. Demonstrates data modelling, KPI development, and business intelligence reporting for data-driven decision-making.
 ![Landing Page](Images/Landing_Page.png)
 
+---
+
+# Live Dashboard 📊 
+
+*Experience the interactive version of this dashboard in Power BI.*
+
+👉 **[Launch Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiZDA5OGMxZDgtNTAxMy00YTc3LTk3YzgtNWMzNDZjYzMwMzk3IiwidCI6IjJhYTYxN2E4LTI3NDItNDEwMi04NjgzLTFmYTMzZGE4Nzc3YiJ9&pageName=f83f799969bf3b9946c6)**
+
+---
+
 # 1. Data Modelling & Dataset
 
 The original dataset consisted of a single flat file containing **29 attributes**, where loan, borrower and location information were stored in a single table. To improve scalability, reduce data redundancy the data was transformed into a **star schema model**.
@@ -116,13 +126,6 @@ This modelling approach provides a clean separation between descriptive dimensio
 - **Adopt loan grade as the primary risk segmentation metric**, supported by borrower income and affordability measures to improve underwriting and portfolio management.
 - **Maintain geographic diversification**, while directing risk management efforts toward borrower and loan characteristics that demonstrate a stronger relationship with default behaviour.
 ---
-
-# 4. Live Dashboard 📊 
-
-*Experience the interactive version of this dashboard in Power BI.*
-
-👉 **[Launch Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiZDA5OGMxZDgtNTAxMy00YTc3LTk3YzgtNWMzNDZjYzMwMzk3IiwidCI6IjJhYTYxN2E4LTI3NDItNDEwMi04NjgzLTFmYTMzZGE4Nzc3YiJ9&pageName=f83f799969bf3b9946c6)**
-
 
 
  # Author
